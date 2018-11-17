@@ -2,3 +2,5 @@ print(sex)
 print(xxx)
 for i in range(10):
 
+¾Ó ±â¸ğÂî
+ È÷È÷9
