@@ -1,2 +1,2 @@
 print(sex)
-print(100)
+print(sex)
